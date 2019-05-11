@@ -1,0 +1,1 @@
+cat /etc/passwd | cut -f4 -d":" | sort -fu | wc -w

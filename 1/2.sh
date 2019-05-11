@@ -1,0 +1,1 @@
+head -1 -q -c 1 plik*.txt

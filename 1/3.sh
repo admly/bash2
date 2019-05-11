@@ -1,0 +1,1 @@
+cat plik.txt | tr A-Za-z C-ZA-Bc-z-a-b

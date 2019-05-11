@@ -1,0 +1,1 @@
+tr -d ., < plik.txt | tr " " \\n | sort -f -u | wc -w
